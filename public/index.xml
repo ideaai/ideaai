@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ideaai - stay safe on ideaai sp. z o.o.</title>
+    <link>http://ideaai.pl/</link>
+    <description>Recent content in ideaai - stay safe on ideaai sp. z o.o.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://ideaai.pl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O nas</title>
+      <link>http://ideaai.pl/about/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://ideaai.pl/about/</guid>
+      <description>Specjalizujemy się w trzech obszarach:
+ IT networking - analiza ruchu sieciowego pod kątem wykrywania i prawidłowej interpretacji zdarzeń wspomaganej procesami sztucznej inteligencji. Internet-Of-Things - pod kątem bezpieczeństwa i ochrony prywatności osób fizycznych i instytucji. Operational Technology - analiza, zbieranie i ochrona danych w sieciach przemysłowych.  </description>
+    </item>
+    
+    <item>
+      <title>Kontakt z nami</title>
+      <link>http://ideaai.pl/contact/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://ideaai.pl/contact/</guid>
+      <description>biuro@ideaai.pl
+ideaai sp. z o.o.
+Solec 18 lok. U61
+00-410 Warszawa
++48 227404219</description>
+    </item>
+    
+  </channel>
+</rss>
